@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>feed://feeds.geekpark.net</string>
+		<key>name</key>
+		<string>极客公园</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>虎嗅网</string>
+		<key>url</key>
+		<string>feed://www.huxiu.com/rss/0.xml</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>优设-UISDC</string>
+		<key>url</key>
+		<string>http://www.uisdc.com/feed</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>36Kr</string>
+		<key>url</key>
+		<string>http://www.36kr.com/feed</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>雷锋网</string>
+		<key>url</key>
+		<string>http://www.leiphone.com/feed</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>知乎日报</string>
+		<key>url</key>
+		<string>http://www.zhihudaily.net/rss.xml</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>科技瘾</string>
+		<key>url</key>
+		<string>feed://cn.engadget.com/rss.xml</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CSDN</string>
+		<key>url</key>
+		<string>feed://www.csdn.net/article/rss_lastnews</string>
+	</dict>
+</array>
+</plist>
