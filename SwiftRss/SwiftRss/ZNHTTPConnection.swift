@@ -123,7 +123,7 @@ class ZNHTTPConnection: NSObject , NSURLConnectionDataDelegate
     
     func serializedRequestBody() -> NSData
     {
-        return queryString().dataUsingEncoding(NSUTF8StringEncoding, allowLossyConversion: true)
+        return queryString().dataUsingEncoding(NSUTF8StringEncoding, allowLossyConversion: true)!
     }
     
     func queryParametersURL() -> NSURL
